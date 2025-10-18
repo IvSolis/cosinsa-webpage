@@ -438,6 +438,18 @@ h1.error-font {
 
 ***/
 
+/* Solo aplica al banner con clase .tp-banner-home */
+.tp-banner.tp-banner-nosotros {
+  max-height: 600px !important; /* Ajusta la altura deseada */
+  overflow: hidden;
+}
+
+/* Ajusta la imagen de fondo dentro de ese banner */
+.tp-banner.tp-banner-nosotros img {
+  height: 600px !important;
+  object-fit: cover;
+}
+
 .container,
 .container-fluid{
 	padding-top: 100px;
@@ -910,7 +922,7 @@ h1.split-title {
 	position:absolute;
 }
 .header-style-two .main-menu .navigation > li > a {
-	color: #121313;
+	color: #ffffff;
 }
  .header-style-two .main-menu .navigation > li.current-menu-item > a {
  	color: #2737cc;
@@ -1237,21 +1249,14 @@ h1.split-title {
 
 /*Header style*/
 
-.header-style-two .header-mainbox {
-	background: none;
-}
 .header-style-two .header-mainbox.style_3  {
 	border-bottom: 1px solid rgba(255,255,255,0.10);
-	background: #ffffff;
-}
-.header-mainbox.style_3  {
-	border-bottom: 1px solid rgba(255,255,255,0.10);
-	background: #ffffff;
+	background: #2737cc;
 }
 
 .fixed-header .header-mainbox{
   position: fixed;
-  background: #0F263A;
+  background: #2737cc;
   border-bottom:1px solid rgba(0,0,0,0.20); 
 }
 
