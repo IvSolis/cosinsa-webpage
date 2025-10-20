@@ -915,7 +915,7 @@ h1.split-title {
 	width:100%;
 	padding: 0;
 	z-index:999;
-	background: #eeeeee;
+	background: #ffffff;
 	
 	
 }
@@ -967,7 +967,7 @@ h1.split-title {
 }
 
 .header-style-three.fixed-header .header-mainbox{
-  background: #0F263A;
+  background: #ffffff;
 }
 
 .main-header .header-mainbox .logo-outer{
@@ -998,7 +998,7 @@ h1.split-title {
 	position:relative;
 	display:block;
 	padding: 37px 30px;
-	color: #2737cc;;
+	color: #071726;;
 	font-weight:500;
 	font-size:20px;
 	line-height:30px;
@@ -1020,7 +1020,7 @@ h1.split-title {
 .main-menu .navigation > li:hover > a,
 .main-menu .navigation > li.current > a,
 .main-menu .navigation > li.current-menu-item > a{
-	color: #2737cc;
+	color: #071726;
 	opacity:1;
 }
 
