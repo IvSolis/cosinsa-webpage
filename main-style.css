@@ -779,13 +779,13 @@ h1.split-title {
 .main-header .header-top{
 	position:relative;
 	padding:20px 0px;
-	background: #071726;
-	color: #dadada;	
+	background: #ffffff;
+	color: #071726;	
 }
 .main-header .header-top.style_2{
 	padding:10px 0;
-	background: #fff;
-	color: #2c2c2c;
+	background: #ffffff;
+	color: #071726;
 		
 }
 
