@@ -790,16 +790,17 @@ h1.split-title {
 }
 
 .header-style-two .header-top {
-	background:none;
+	background:#ffffff;
+	color: #071726
 	/*border-bottom:1px solid rgba(255,255,255,0.10);	*/
 	
 }
 .header-style-bar {
-	background: #071726;
+	background: #ffffff;
 }
 
 .main-header .header-top a{
-	color:#ffffff;
+	color:#071726;
 	-webkit-transition:all 300ms ease;
 	-ms-transition:all 300ms ease;
 	-o-transition:all 300ms ease;
