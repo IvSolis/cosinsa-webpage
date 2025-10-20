@@ -998,7 +998,7 @@ h1.split-title {
 	position:relative;
 	display:block;
 	padding: 37px 30px;
-	color: #071726;;
+	color: #071726;
 	font-weight:500;
 	font-size:20px;
 	line-height:30px;
@@ -1014,7 +1014,7 @@ h1.split-title {
 }
 
 .main-header.header-style-three .navigation > li > a{
-	color:#fff;
+	color:#071726;
 }
 
 .main-menu .navigation > li:hover > a,
