@@ -800,7 +800,7 @@ h1.split-title {
 }
 
 .main-header .header-top a{
-	color:#071726;
+	color:#ffffff;
 	-webkit-transition:all 300ms ease;
 	-ms-transition:all 300ms ease;
 	-o-transition:all 300ms ease;
@@ -923,7 +923,7 @@ h1.split-title {
 	position:absolute;
 }
 .header-style-two .main-menu .navigation > li > a {
-	color: #ffffff;
+	color: #071726;
 }
  .header-style-two .main-menu .navigation > li.current-menu-item > a {
  	color: #2737cc;
