@@ -922,7 +922,7 @@ h1.split-title {
 	position:absolute;
 }
 .header-style-two .main-menu .navigation > li > a {
-	color: #ffffff;
+	color: #000000;
 }
  .header-style-two .main-menu .navigation > li.current-menu-item > a {
  	color: #2737cc;
@@ -1251,12 +1251,12 @@ h1.split-title {
 
 .header-style-two .header-mainbox.style_3  {
 	border-bottom: 1px solid rgba(255,255,255,0.10);
-	background: #2737cc;
+	background: #ffffff;
 }
 
 .fixed-header .header-mainbox{
   position: fixed;
-  background: #2737cc;
+  background: #ffffff;
   border-bottom:1px solid rgba(0,0,0,0.20); 
 }
 
